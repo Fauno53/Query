@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882250366819",
+    "project_id": "actividad-query",
+    "storage_bucket": "actividad-query.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882250366819:android:a96b5a2056baa3717f9d56",
+        "android_client_info": {
+          "package_name": "com.example.query"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmI0zEYzLoUyDT6KA2eArDVLwpSK3YqRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
